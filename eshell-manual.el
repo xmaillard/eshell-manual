@@ -1,4 +1,4 @@
-;;; eshell-info.el --- dummy elisp for the eshell info package
+;;; eshell-manual.el --- dummy elisp for the eshell info package
 
 ;; Author: Aidan Gauland <aidalgol@no8wireless.co.nz>
 ;; Keywords: lisp eshell
@@ -22,8 +22,6 @@
 
 ;;; Code:
 
+(provide 'eshell-manual)
 
-
-(provide 'eshell-info)
-
-;;; eshell-info.el ends here
+;;; eshell-manual.el ends here
